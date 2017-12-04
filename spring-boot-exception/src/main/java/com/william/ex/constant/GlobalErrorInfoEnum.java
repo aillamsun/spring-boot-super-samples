@@ -1,6 +1,7 @@
-package com.sung.constant;
+package com.william.ex.constant;
 
-import com.sung.result.ErrorInfo;
+
+import com.william.ex.result.ErrorInfo;
 
 /**
  * 应用系统级别的错误码

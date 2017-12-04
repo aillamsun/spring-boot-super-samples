@@ -1,4 +1,4 @@
-package com.sung.result;
+package com.william.ex.result;
 
 /**
  * 错误码接口

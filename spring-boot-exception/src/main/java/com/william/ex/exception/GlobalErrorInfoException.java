@@ -1,6 +1,7 @@
-package com.sung.exception;
+package com.william.ex.exception;
 
-import com.sung.result.ErrorInfo;
+
+import com.william.ex.result.ErrorInfo;
 
 /**
  * Created by sungang on 2017/5/19.

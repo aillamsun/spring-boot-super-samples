@@ -1,6 +1,6 @@
-package com.sung;
+package com.william.ex;
 
-import com.sung.utils.SpringUtils;
+import com.william.ex.utils.SpringUtils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;

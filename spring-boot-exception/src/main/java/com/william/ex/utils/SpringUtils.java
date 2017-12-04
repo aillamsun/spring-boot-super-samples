@@ -1,4 +1,4 @@
-package com.sung.utils;
+package com.william.ex.utils;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;

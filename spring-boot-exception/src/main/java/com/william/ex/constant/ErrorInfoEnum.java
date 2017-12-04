@@ -1,7 +1,7 @@
-package com.sung.constant;
+package com.william.ex.constant;
 
-import com.sung.result.ErrorInfo;
-import com.sung.utils.MessageUtils;
+
+import com.william.ex.result.ErrorInfo;
 
 /**
  * Created by sungang on 2017/5/19.

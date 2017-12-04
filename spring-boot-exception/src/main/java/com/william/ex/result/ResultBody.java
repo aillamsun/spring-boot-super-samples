@@ -1,6 +1,7 @@
-package com.sung.result;
+package com.william.ex.result;
 
-import com.sung.constant.GlobalErrorInfoEnum;
+
+import com.william.ex.constant.GlobalErrorInfoEnum;
 
 import java.io.Serializable;
 
