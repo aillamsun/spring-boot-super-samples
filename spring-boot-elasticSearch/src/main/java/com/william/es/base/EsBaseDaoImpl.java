@@ -1,10 +1,10 @@
-package com.sung.elasticsearch.base;
+package com.william.es.base;
 
 
-import com.sung.elasticsearch.utils.PropertyHelper;
-import com.sung.elasticsearch.utils.ReflectUtils;
-import com.sung.elasticsearch.utils.es.BaseEsModel;
-import com.sung.elasticsearch.utils.es.BasePage;
+import com.william.es.utils.PropertyHelper;
+import com.william.es.utils.ReflectUtils;
+import com.william.es.utils.es.BaseEsModel;
+import com.william.es.utils.es.BasePage;
 import org.elasticsearch.action.ActionFuture;
 import org.elasticsearch.action.admin.cluster.health.ClusterHealthRequest;
 import org.elasticsearch.action.admin.cluster.health.ClusterHealthResponse;

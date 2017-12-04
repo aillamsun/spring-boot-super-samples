@@ -1,4 +1,4 @@
-package com.sung.elasticsearch;
+package com.william.es;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.sung.elasticsearch.repository;
+package com.william.es.repository;
 
-import com.sung.elasticsearch.model.GoodsModel;
+import com.william.es.model.GoodsModel;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
 /**

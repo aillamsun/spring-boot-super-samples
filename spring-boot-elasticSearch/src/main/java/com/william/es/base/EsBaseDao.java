@@ -1,6 +1,6 @@
-package com.sung.elasticsearch.base;
+package com.william.es.base;
 
-import com.sung.elasticsearch.utils.es.BasePage;
+import com.william.es.utils.es.BasePage;
 import org.elasticsearch.search.sort.SortOrder;
 
 import java.util.List;

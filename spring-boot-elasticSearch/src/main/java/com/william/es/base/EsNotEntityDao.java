@@ -1,4 +1,4 @@
-package com.sung.elasticsearch.base;
+package com.william.es.base;
 
 import org.apache.commons.lang3.StringUtils;
 import org.elasticsearch.action.search.SearchRequestBuilder;

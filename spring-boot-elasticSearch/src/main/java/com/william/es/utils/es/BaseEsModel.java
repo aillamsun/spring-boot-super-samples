@@ -1,6 +1,6 @@
-package com.sung.elasticsearch.utils.es;
+package com.william.es.utils.es;
 
-import com.sung.elasticsearch.utils.BaseModel;
+import com.william.es.utils.BaseModel;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Field;
 import org.springframework.data.elasticsearch.annotations.FieldIndex;

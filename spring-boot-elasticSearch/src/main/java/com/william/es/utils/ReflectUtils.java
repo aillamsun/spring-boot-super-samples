@@ -1,4 +1,4 @@
-package com.sung.elasticsearch.utils;
+package com.william.es.utils;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

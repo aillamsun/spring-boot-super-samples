@@ -1,7 +1,7 @@
-package com.sung.elasticsearch.model;
+package com.william.es.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.sung.elasticsearch.utils.es.BaseEsModel;
+import com.william.es.utils.es.BaseEsModel;
 import org.springframework.data.elasticsearch.annotations.Document;
 import org.springframework.data.elasticsearch.annotations.Field;
 import org.springframework.data.elasticsearch.annotations.FieldIndex;

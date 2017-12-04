@@ -1,15 +1,13 @@
-package com.sung;
+package com.william.es;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
-import com.sung.elasticsearch.SpringBootElastcsearchExampleApplication;
-import com.sung.elasticsearch.model.GoodsModel;
-import com.sung.elasticsearch.repository.GoodsESDocRepository;
-import com.sung.elasticsearch.service.GoodsEsDocService;
-import com.sung.elasticsearch.utils.es.BasePage;
-import org.apache.commons.lang3.StringUtils;
+import com.william.es.model.GoodsModel;
+import com.william.es.repository.GoodsESDocRepository;
+import com.william.es.service.GoodsEsDocService;
+import com.william.es.utils.es.BasePage;
 import org.elasticsearch.index.query.BoolQueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.junit.Assert;

@@ -1,9 +1,9 @@
-package com.sung.elasticsearch.service;
+package com.william.es.service;
 
-import com.sung.elasticsearch.model.GoodsModel;
-import com.sung.elasticsearch.repository.GoodsESDocRepository;
-import com.sung.elasticsearch.utils.PropertyHelper;
-import com.sung.elasticsearch.utils.es.BasePage;
+import com.william.es.model.GoodsModel;
+import com.william.es.repository.GoodsESDocRepository;
+import com.william.es.utils.PropertyHelper;
+import com.william.es.utils.es.BasePage;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.common.text.Text;
 import org.elasticsearch.index.query.BoolQueryBuilder;
